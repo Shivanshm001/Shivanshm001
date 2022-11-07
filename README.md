@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivanshm001
-- 👀 I’m interested in web devlopment and C++.
-- 🌱 I’m currently learning Web devlopment and C++.
+- 👀 I’m interested in web development and C++.
+- 🌱 I’m currently learning Web development and C++.
 - 💞️ I’m looking to collaborate on making websites for free for experience/learning.
 - 📫 Reach me at shivanshmishra.web@gmail.com
 
